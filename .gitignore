@@ -1,0 +1,14 @@
+# secrets
+.env
+*.key
+secrets*
+token*
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# local state
+kanban-watch-state.json
+kanban.db
